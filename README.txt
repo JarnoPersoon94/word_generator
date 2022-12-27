@@ -1,0 +1,1 @@
+Random word generator that can generate random astrology messages
